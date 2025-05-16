@@ -3,7 +3,8 @@
 Welcome to my GitHub! I’m a software developer, entrepreneur, and Sim-Racing enthusiast from Lübeck, Germany.  
 
 ## 🛠️ About Me   
-- 🌟 **Founder** of ThemeParkCraft  
+- 💼 **CEO** of [VIFE Software GmbH](https://vife-software.de)
+- 🌟 **Founder** of ThemeParkCraft
 - 💻 **DevOps Engineer** at Drägerwerk  
 - 🎮 Competing in Sim-Racing events
 
